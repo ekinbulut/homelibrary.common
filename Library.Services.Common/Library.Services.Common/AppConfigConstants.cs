@@ -6,6 +6,7 @@
         public const string TokenManagerConfigConstants = "TokenManagerConfig";
         public const string AuthorServiceEndPointConstants = "AuthorServiceEndPointConstans";
         public const string StorageServiceEndPointConstants = "StorageServiceEndPointConstants";
-        public static string MassTransitConfigSectionName = "MassTransitConfig";
+        public const string MassTransitConfigSectionName = "MassTransitConfig";
+        public const string PublisherServiceEndPointConstants = "PublisherServiceEndPointConstants";
     }
 }
